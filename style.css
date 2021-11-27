@@ -1,0 +1,32 @@
+.bg-active {
+    background-color: #534A40 !important;
+    transition: 0.3s;
+    color: #FFFFFF!important;
+}
+
+.navbar {
+    width: 100%;
+    transition: 300ms;
+}
+
+.link-navbar {
+    color: #000000;
+    transition: 0.3s;
+    text-decoration: none;
+}
+
+.link-navbar:hover {
+    color: #000000;
+}
+
+.hovered-card {
+    transition: 0.3s;
+}
+
+.hovered-card:hover {
+    transform: scale(1.1);
+}
+
+.bg-brown {
+    background-color: #534A40 !important;
+}
